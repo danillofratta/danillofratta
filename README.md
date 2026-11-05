@@ -95,11 +95,11 @@ Identity, customer, catalog, sales and payment services behind an API gateway, w
 ### ✍️ Latest articles
 
 <!-- BLOG-POST-LIST:START -->
+- [An AGENTS.md File Won’t Keep Your AI-Generated Code Safe. Here’s What I Built Instead.](https://medium.com/@danillo.fratta/an-agents-md-file-wont-keep-your-ai-generated-code-safe-here-s-what-i-built-instead-c31bbea97567?source=rss-8db306d501b3------2)
 - [From Prompt to Specification: How I Used OpenSpec to Build AgentGate](https://medium.com/@danillo.fratta/from-prompt-to-specification-how-i-used-openspec-to-build-agentgate-16f9aecf689c?source=rss-8db306d501b3------2)
 - [AI-First: Stop using Prompting Codex /Claude and Started Engineering with Spec-Driven Development](https://medium.com/@danillo.fratta/stop-using-prompting-codex-and-started-engineering-with-spec-driven-development-ccabf431bbce?source=rss-8db306d501b3------2)
 - [Inside My Agentic AI Architecture: From User Prompt to SAP Without Giving the LLM Control](https://medium.com/@danillo.fratta/inside-my-agentic-ai-architecture-from-user-prompt-to-sap-without-giving-the-llm-control-efaaecded091?source=rss-8db306d501b3------2)
 - [Microservices Don’t Mean Every Service Gets to Touch Every Database](https://medium.com/@danillo.fratta/microservices-dont-mean-every-service-gets-to-touch-every-database-e299fec434c7?source=rss-8db306d501b3------2)
-- [Outbox + Inbox + SQS: How I Handle At-Least-Once Delivery Without Duplicating Business Actions](https://medium.com/@danillo.fratta/outbox-inbox-sqs-how-i-handle-at-least-once-delivery-without-duplicating-business-actions-a3b6ad6702c1?source=rss-8db306d501b3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles on Medium](https://medium.com/@danillo.fratta)
