@@ -95,11 +95,11 @@ Identity, customer, catalog, sales and payment services behind an API gateway, w
 ### ✍️ Latest articles
 
 <!-- BLOG-POST-LIST:START -->
+- [I Turned My AI Agent Into an Enterprise Monorepo. The Hard Part Wasn’t Moving Files.](https://medium.com/@danillo.fratta/i-turned-my-ai-agent-into-an-enterprise-monorepo-the-hard-part-wasnt-moving-files-c3316e365b14?source=rss-8db306d501b3------2)
 - [Building Agentic AI with DDD, CQRS, Vertical Slice and Hexagonal Architecture](https://medium.com/@danillo.fratta/building-agentic-ai-with-ddd-cqrs-vertical-slice-and-hexagonal-architecture-383b9f96e406?source=rss-8db306d501b3------2)
 - [AI Coding Agents Need More Than Tests. They Need a Development Harness.](https://medium.com/@danillo.fratta/ai-coding-agents-need-more-than-tests-they-need-a-development-harness-c5e36f98208b?source=rss-8db306d501b3------2)
 - [An AGENTS.md File Won’t Keep Your AI-Generated Code Safe. Here’s What I Built Instead.](https://medium.com/@danillo.fratta/an-agents-md-file-wont-keep-your-ai-generated-code-safe-here-s-what-i-built-instead-c31bbea97567?source=rss-8db306d501b3------2)
 - [From Prompt to Specification: How I Used OpenSpec to Build AgentGate](https://medium.com/@danillo.fratta/from-prompt-to-specification-how-i-used-openspec-to-build-agentgate-16f9aecf689c?source=rss-8db306d501b3------2)
-- [AI-First: Stop using Prompting Codex / Claude and Started Engineering with Spec-Driven Development](https://medium.com/@danillo.fratta/stop-using-prompting-codex-and-started-engineering-with-spec-driven-development-ccabf431bbce?source=rss-8db306d501b3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles on Medium](https://medium.com/@danillo.fratta)
